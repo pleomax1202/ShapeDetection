@@ -3,4 +3,4 @@ A easy way to detect shape from image by using OpenCV, and try to practice Docke
 
 Python CMD to predict your image:
 
-"python shapeDetection.py -i ['imagePath']" -o ['outputDir']
+"python shapeDetection.py -i ['imagePath'] -o ['outputDir']"
